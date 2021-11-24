@@ -37,6 +37,9 @@ public class Employee {
 		System.out.println(1234);
 		System.out.println(1234);
 		System.out.println(1234);
+		System.out.println(5236);
+		System.out.println(5236);
+
 		
 
 	}
