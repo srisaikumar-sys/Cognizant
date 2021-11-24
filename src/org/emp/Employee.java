@@ -27,6 +27,12 @@ public class Employee {
 		{
 		System.out.println("Not eligible to vote");	
 		}
+		System.out.println(1234);
+		System.out.println(1234);
+		System.out.println(1234);
+		System.out.println(1234);
+		System.out.println(1234);
+
 	}
 	
 	
